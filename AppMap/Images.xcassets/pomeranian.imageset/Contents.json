@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x",
+      "filename" : "cute-pomeranian-puppies-for-adoption-white-cute-puppy-like-a-fluffy-ball-white-puppy-with-black-eyes-dark-nose-fluffy-white-dog-standing-out-on-wood-floor.jpg"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
